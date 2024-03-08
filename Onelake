@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T08:31:08.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="zqV5VjK0QFgKofwm9Tn9" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-08T08:40:06.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="1s8U5iLrHrqqqpuQDBeZ" version="24.0.2" type="github" pages="3">
   <diagram name="Fabric" id="fwnXVz7zmorF49ipfm9W">
     <mxGraphModel dx="2166" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,7 +588,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymlqJDNC6V-CRXRJ4Sh7-0" value="Storage&lt;div&gt;account&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="kQCcZ8W07O56LkGQ7buo-1">
-          <mxGeometry x="188" y="407" width="65" height="52" as="geometry" />
+          <mxGeometry x="188" y="410" width="61.25" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
