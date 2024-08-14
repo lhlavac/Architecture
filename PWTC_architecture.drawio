@@ -278,7 +278,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KEYkbQwU7IqM9qzdViw--1" value="&lt;div&gt;7core Stable Stage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+        <mxCell id="KEYkbQwU7IqM9qzdViw--1" value="&lt;div&gt;7core Stable Stage&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
           <mxGeometry x="78.8" y="-90" width="46.4" height="61.05" as="geometry" />
         </mxCell>
         <mxCell id="KEYkbQwU7IqM9qzdViw--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KEYkbQwU7IqM9qzdViw--2" target="_gIUkZP-d5PhOVjkKTWp-6">
